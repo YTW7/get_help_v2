@@ -10,6 +10,7 @@ On the other hand, they can even solve other member’s doubts for earning crypt
 # Tech Stack Used: 
 **NextJS, Rust, Anchor Framework, TailwindCSS, Solana and Replit.**
 # Github Repository Link:
+**https://github.com/YTW7/get_help_v2**
 # Video Link Explaining the Project and working: 
 # Prize Tracks Covered: 
 **Solana and Replit**
