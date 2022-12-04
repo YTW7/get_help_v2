@@ -14,6 +14,8 @@ On the other hand, they can even solve other member’s doubts for earning crypt
 # Video Link Explaining the Project and working: 
 # Prize Tracks Covered: 
 **Solana and Replit**
+# Information Architecture
+![My Image](FRONT-END/project_images/img_arch.png)
 
 # Snippets of Our Project are given below:-
 ![My Image](FRONT-END/project_images/image1.png)
