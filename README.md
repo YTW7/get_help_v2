@@ -20,7 +20,7 @@
 # Information Architecture:
 ![My Image](FRONT-END/project_images/img_arch.JPG)
 
-# Snippets of Our Project are given below:-
+# Snippets of Our Project:
 ![My Image](FRONT-END/project_images/image1.png)
 
 ![My Image](FRONT-END/project_images/img1.png)
