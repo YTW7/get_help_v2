@@ -29,7 +29,7 @@ export default function Aboutus() {
     }
   }
   return (
-    <div >
+    <div id='About'>
 
 
       <section class="text-gray-600 body-font overflow-hidden mt-20">

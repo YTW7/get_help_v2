@@ -1,4 +1,5 @@
 import React from 'react'
+import {Link} from 'react-scroll'
 import { WalletMultiButton } from '@solana/wallet-adapter-react-ui'
 import { truncate } from '../utils/string'
 import Script from 'next/script'
@@ -25,9 +26,11 @@ const Navbar = ({ connected, publicKey}) => {
   <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
     
     <nav class="flex lg:w-2/5 flex-wrap items-center text-base md:ml-auto">
-      <a class="mr-5 hover:text-red-600">Home</a>
-      <a class="mr-5 hover:text-red-600">About</a>
-      <a class="mr-5 hover:text-red-600">Contact</a>
+    <Link to="homepage" spy={true} smooth={true} offset={20} duration={1000} className="mx-4 cursor-pointer hover:text-yellow-400">HOME</Link>
+    <Link to="About" spy={true} smooth={true} offset={20} duration={1000} className="mx-4 cursor-pointer hover:text-yellow-400">ABOUT US</Link>
+      <Link to="COMMUNITIES" spy={true} smooth={true} offset={20} duration={1000} className="mx-4 cursor-pointer hover:text-yellow-400">COMMUNITIES</Link>
+     
+     
       {/* <a class="hover:text-gray-900">Fourth Link</a> */}
     </nav>
     <a class="flex order-first lg:order-none lg:w-1/5 title-font font-medium items-center text-gray-900 lg:items-center lg:justify-center mb-4 md:mb-0">

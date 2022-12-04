@@ -4,7 +4,7 @@ import Link from "next/link";
 
 const Community = () => {
   return (
-    <div>
+    <div id="COMMUNITIES">
       <section class="text-white body-font bg-black w-full rounded-xl">
 
  

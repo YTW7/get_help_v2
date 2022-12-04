@@ -3,6 +3,8 @@ import Image from 'next/image'
 const First = () => {
   return (
     <>
+    <div
+    id='homepage'>
      <section class="text-gray-600 body-font bg-black mt-2 rounded-xl">
         <div class="container mx-auto flex flex-col px-5 py-24 justify-center items-center">
           <div class="rounded-lg h-90  ">
@@ -28,6 +30,7 @@ const First = () => {
         
       </section>
 
+      </div>
     </>
   )
 }
