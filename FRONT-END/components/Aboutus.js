@@ -37,7 +37,7 @@ export default function Aboutus() {
           <div class="flex flex-wrap -m-12">
             <div class="p-12 md:w-1/2 flex flex-col items-start">
               <span class="inline-block py-1 px-2 rounded bg-indigo-50 text-black text-xs font-medium tracking-widest ">
-                
+                #Get Help
               </span>
               <h2 class="sm:text-xl text-xl title-font font-medium text-gray-900 mt-4 mb-4 bg-yellow-200 p-2 rounded-lg">
                 FLOWCHART
@@ -67,7 +67,7 @@ export default function Aboutus() {
                       {
                         <AiOutlineArrowDown className="mx-1 " />
                       }
-                      {/* <Image src="/airs.png" height={50} width={50} /> */}
+                      <Image src="/logo1.png" height={50} width={50} /> 
 
                     </a>
                   </>
@@ -85,8 +85,7 @@ export default function Aboutus() {
                         <AiOutlineArrowUp className="mx-1 " />
 
                       }
-                      {/* <Image src="/airs.png" height={50} width={50} /> */}
-
+                       <Image src="/logo1.png" height={50} width={50} /> 
                     </a>
                   </>
                 )}
@@ -99,7 +98,7 @@ export default function Aboutus() {
 
             <div class="p-12 md:w-1/2 flex flex-col items-start">
               <span class="inline-block py-1 px-2 rounded bg-indigo-50 text-black text-xs font-medium tracking-widest">
-              
+               #Get Help
               </span>
               <h2 class="sm:text-xl text-xl title-font font-medium text-gray-900 mt-4 mb-4 bg-blue-300 p-2 rounded-lg ">
                 OUR VISION
@@ -134,7 +133,7 @@ export default function Aboutus() {
                       {
                         <AiOutlineArrowDown className="mx-1 " />
                       }
-                      {/* / <Image src="/airs.png" height={50} width={50} /> */}
+                       <Image src="/logo1.png" height={50} width={50} /> 
                     </a>
                   </>
                 ) : (
@@ -181,7 +180,7 @@ export default function Aboutus() {
                       {
                         <AiOutlineArrowUp className="mx-2 " />
                       }
-                      <Image src="/airs.png" height={50} width={50} />
+                      <Image src="/logo1.png" height={50} width={50} />
                     </a>
                   </>
                 )}
