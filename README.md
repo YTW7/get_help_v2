@@ -14,15 +14,21 @@ On the other hand, they can even solve other member’s doubts for earning crypt
 # Video Link Explaining the Project and working: 
 # Prize Tracks Covered: 
 **Solana and Replit**
+# Information Architecture
+![My Image](FRONT-END/project_images/img_arch.png)
 
 # Snippets of Our Project are given below:-
 ![My Image](FRONT-END/project_images/image1.png)
 
-![My Image](FRONT-END/project_images/wallet.png)
+![My Image](FRONT-END/project_images/img1.png)
 
-![My Image](FRONT-END/project_images/middle.png)
+![My Image](FRONT-END/project_images/img2.png)
 
-![My Image](FRONT-END/project_images/image.png)
+![My Image](FRONT-END/project_images/img3.png)
 
-![My Image](FRONT-END/project_images/finalpost.png)
+![My Image](FRONT-END/project_images/img4.png)
+
+![My Image](FRONT-END/project_images/img5.png)
+
+![My Image](FRONT-END/project_images/img6.png)
 
