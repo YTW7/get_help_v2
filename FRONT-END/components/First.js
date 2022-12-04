@@ -15,7 +15,7 @@ const First = () => {
               <div class="font-bold">Get Help</div>
               <br /> 
               <div className='bg-black rounded-xl p-5' >
-              One-Stop Decentralized Platform for Students
+              One-Stop Decentralized Platform for Competitive Exam Aspirants
               </div> 
             </h1>
              

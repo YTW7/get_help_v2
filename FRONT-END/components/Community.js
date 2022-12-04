@@ -37,7 +37,7 @@ const Community = () => {
                     (CFTIs), Institutions/Universities funded/recognized by
                     participating State Governments. JEE Main is also an
                     eligibility test for JEE Advanced, which is conducted for
-                    admission to IITs.
+                    admission to IITs. They are considered as institutes of national importance.
                   </p>
                   <div class="flex items-center flex-wrap ">
                     <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0">
@@ -45,7 +45,6 @@ const Community = () => {
                         <Link href="/Jee">JOIN NOW</Link>
                       </button>
                     </a>
-                    <span class="text-gray-400 mr-3 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1 border-r-2 border-gray-200"></span>
                     <span class="text-gray-400 inline-flex items-center leading-none text-sm"></span>
                   </div>
                 </div>

@@ -23,7 +23,9 @@ export default function Home() {
       <Aboutus/>
       {/* <Sidebar/> */}
       <Community/>
+      <br />
       <Footer/>
+      <br />
     </div>
   )
 }
